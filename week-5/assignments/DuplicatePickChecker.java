@@ -1,10 +1,10 @@
 import java.util.Arrays;
 
 /**
- * Student Name: Rehaan Ajani
- * Registration Number: RA2511026010673
+ * Student Name: Arnav Mathur
+ * Registration Number: RA2511003010660
  * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
- * Section: AK1, B.Tech CSE with specialization in AI & ML
+ * Section: K1, B.Tech CSE core
  * 
  * Week 5 - S5 - OOP Fundamental - Assignment Practice Problem (HW)
  * Category C - Problem 2 (Easy): Duplicate Player Pick Checker
