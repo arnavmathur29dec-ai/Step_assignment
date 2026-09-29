@@ -1,9 +1,9 @@
 /**
- * Student Name: Rehaan Ajani
- * Registration Number: RA2511026010673
- * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
- * Section: AK1, B.Tech CSE with specialization in AI & ML
  * 
+ *  * Student Name: Arnav Mathur
+ * Registration Number: RA2511003010660
+ * College: SRM Institute of Science and Technology, Kattankulathur (SRM KTR)
+ * Section: K1, B.Tech CSE core
  * Week 1 - S1 - Assignments Problem (HW)
  * Problem 5: The Movie Review Word Length Profiler
  */
